@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// first-factorial.c
-
 int main(void)
 {
   int n;
