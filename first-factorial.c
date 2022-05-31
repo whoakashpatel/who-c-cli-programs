@@ -13,5 +13,5 @@ int main(void)
     level[i] = i+1;
     product *= level [i];
   }
-  printf("Lo ji, aapke factorial ka value hua: %d", product);
+  printf("Lo ji, aapke factorial ka value hua: %d\n", product);
 }
